@@ -1,4 +1,4 @@
-´´´mermaid
+```mermaid
 ---
 title: Sistema de Gestión de Zoológico
 ---
